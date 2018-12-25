@@ -19,3 +19,7 @@ I manipulated the DOM, altered part of the HTML and also styled the game
 
 ## Game Start Screen Shot
 <img src="/screenshots/screenshot1.png" alt="Game Screen Shot" height="420">
+
+
+## Game Solved Screen Shot
+<img src="/screenshots/screenshot2.png" alt="Game Solved Screen Shot" height="420">
