@@ -15,3 +15,7 @@ I manipulated the DOM, altered part of the HTML and also styled the game
 * created a deck of cards that shuffles when game is refreshed
 * created a counter to count the number of moves made by player and timer to know the duration of a play
 *  create a pop-up modal when player wins game
+
+
+## Game Start Screen Shot
+<img src="/screenshots/screenshot1.png" alt="Game Screen Shot" height="420">
